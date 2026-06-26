@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Human Auto Clicker</string>
+    <string name="accessibility_service_label">Human Auto Clicker Service</string>
+    <string name="accessibility_description">ใช้สำหรับจำลองการแตะหน้าจอแบบมนุษย์</string>
+</resources>
